@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number),Deaths - Alcohol use disorders - Sex: Both - Age: All Ages (Number),Deaths - Cause: All causes - Risk: Tobacco - Sex: Both - Age: All Ages (Number),Deaths - Cause: All causes - Risk: Drug use - Sex: Both - Age: All Ages (Number),Deaths - Cause: All causes - Risk: Alcohol use - Sex: Both - Age: All Ages (Number)
+country,code,year,Drug-use-disorders,Alcohol-use-disorders,Tobacco,Drug-use,Alcohol-use
 Afghanistan,AFG,1990,93,72,9723,174,356
 Afghanistan,AFG,1991,102,75,9918,188,364
 Afghanistan,AFG,1992,118,80,10386,211,376
