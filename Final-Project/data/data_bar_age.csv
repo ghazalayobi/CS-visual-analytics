@@ -1,4 +1,4 @@
-,drug_type,variable,gender,18-24,25-34,35-44,45-54,55-64
+,drug_type,variable,gender,age18to24,age25to34,age35to44,age45to54,age55to64
 0,alcohol,ascore,F,0.12,0.22,0.14,0.47,0.17
 1,alcohol,ascore,M,-0.23,-0.25,-0.28,-0.15,-0.27
 2,alcohol,cscore,F,-0.05,0.17,0.3,0.4,-0.04
