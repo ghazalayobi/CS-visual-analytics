@@ -1,4 +1,4 @@
-,drug_type,variable,gender,Doctorate_degree,Left_school_16,Left_school_17,Left_school_18,Left_school_before_Professional_diploma,"no_certificate_degree",University_degree
+,drug_type,variable,gender,Doctorate degree,Left school at 16 years,Left school at 17 years,Left school at 18 years,Left school before 16 years,Masters degree,Professional certificate/ diploma,"Some college or university, no certificate or degree",University degree
 0,alcohol,ascore,F,0.33,0.3,-0.31,-0.08,0.53,0.3,0.27,0.14,0.19
 1,alcohol,ascore,M,-0.06,-0.29,-0.48,-0.22,-0.22,-0.13,-0.19,-0.27,-0.24
 2,alcohol,cscore,F,0.7,0.08,-0.39,0.08,-0.04,0.42,0.2,-0.28,0.25
