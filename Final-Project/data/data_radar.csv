@@ -1,4 +1,4 @@
-,drug_type,variable,gender,Used in Last Day,Used in Last Decade,Used in Last Month,Used in Last Week,Used in Last Year
+,drug_type,variable,gender,Last_Day,Last_Decade,Last_Month,Last_Week,Last_Year
 0,alcohol,ascore,F,3.59,3.62,3.69,3.75,3.56
 1,alcohol,ascore,M,3.18,3.12,3.26,3.29,3.12
 2,alcohol,cscore,F,3.62,3.44,3.67,3.7,3.42
